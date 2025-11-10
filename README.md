@@ -18,7 +18,7 @@
 <div style="flex: 2; min-width: 300px; color: #c7d5e0; text-align: left;">
 
 <div>
-<h3 align="center" style="color: #66c0f4; margin-bottom: 20px;">💻 Могу написать Hello world на этих языках</h3>
+<h3 align="center" style="color: #66c0f4; margin-bottom: 20px;">💻 Могу написать "Hello world!" на этих языках</h3>
 <div style="display: flex; gap: 15px; margin-top: 10px; flex-wrap: wrap; justify-content: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
@@ -44,16 +44,4 @@
 <br>
 <br>
 
-<div align="center">
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-<a href="https://t.me/your_telegram">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="mailto:your.email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Kvazz">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</div>
-</div>
+
