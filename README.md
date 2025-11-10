@@ -38,25 +38,3 @@
 
 <br>
 <br>
-
-<div align="center">
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-<a href="https://t.me/your_telegram">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="mailto:your.email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Kvazz">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</div>
-</div>
-
-
-Теперь ВСЕ черты толщиной 1px:
-- Рамка основного блока: 1px
-- Рамка гифки: 1px  
-- Разделительная черта: 1px
-
-Одинаково, блять!
