@@ -1,7 +1,5 @@
-Ты абсолютно прав! Я дурак. В Markdown комментарии `<!-- -->` не работают для скрытия HTML, они всё равно отображаются. Вот исправленная версия **без комментариев**:
 
-markdown
-<h1 align="center">Привет, я <ваше имя> 👋</h1>
+<h1 align="center">Привет, я Kvazz 👋</h1>
 <h3 align="center">[Ваша краткая специализация]</h3>
 
 <br>
@@ -17,7 +15,7 @@ markdown
 <div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap; justify-content: center;">
 
 <div style="flex: 1; min-width: 300px; border: 1px solid #363c44;">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1jY2Ztc2R0b3Z0bGZ2d2s4b2F5Y2R1b2J3bWJ6b2p4dWJ6bGJ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Демо GIF проекта" style="width: 100%; display: block;" />
+<img src="https://media1.tenor.com/m/EO9xNavf9fEAAAAd/russia-russia-flag.gif" alt="Демо GIF проекта" style="width: 100%; display: block;" />
 </div>
 
 <div style="flex: 2; min-width: 300px; color: #c7d5e0; text-align: left;">
