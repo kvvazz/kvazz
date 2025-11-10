@@ -1,6 +1,6 @@
 
 <h1 align="center">Привет, я Kvazz 👋</h1>
-<h3 align="center">[Ваша краткая специализация]</h3>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 <br>
 
