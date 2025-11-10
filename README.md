@@ -28,17 +28,3 @@
 </div>
 </div>
 
-<div style="margin-top: 15px; display: flex; gap: 10px; flex-wrap: wrap;">
-<a href="https://github.com/your-username/your-repo" style="background-color: #5c7e10; color: white; padding: 8px 15px; text-decoration: none; border-radius: 2px; font-size: 14px; display: inline-block;">📂 Исходный код</a>
-<a href="https://your-live-demo-link.com" style="background-color: #1b6ca8; color: white; padding: 8px 15px; text-decoration: none; border-radius: 2px; font-size: 14px; display: inline-block;">🚀 Живое демо</a>
-</div>
-</div>
-</div>
-</div>
-
-</div>
-
-<br>
-<br>
-
----
