@@ -17,6 +17,7 @@
 
 <div>
 <h3 align="center" style="color: #66c0f4; margin-bottom: 20px;">💻 Могу написать Hello world на этих языках</h3>
+<hr style="border: 1px solid #66c0f4; width: 80%; margin: 0 auto 20px auto;">
 <div style="display: flex; gap: 15px; margin-top: 10px; flex-wrap: wrap; justify-content: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
