@@ -13,11 +13,12 @@
 <img src="https://i.pinimg.com/originals/88/e8/46/88e846de93eb7d31eae1b5eb26e3c25b.gif" alt="Демо GIF проекта" style="width: 100%; display: block;" />
 </div>
 
+<hr style="border: 2px solid #66c0f4; width: 100%; margin: 20px 0;">
+
 <div style="flex: 2; min-width: 300px; color: #c7d5e0; text-align: left;">
 
 <div>
 <h3 align="center" style="color: #66c0f4; margin-bottom: 20px;">💻 Могу написать Hello world на этих языках</h3>
-<hr style="border: 1px solid #66c0f4; width: 80%; margin: 0 auto 20px auto;">
 <div style="display: flex; gap: 15px; margin-top: 10px; flex-wrap: wrap; justify-content: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
